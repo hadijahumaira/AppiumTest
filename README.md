@@ -19,8 +19,7 @@ Ensure you have the following installed on your system:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/yourusername/appium-android-automation.git
-cd appium-android-automation
+https://github.com/hadijahumaira/AppiumTest.git
 ```
 
 ### Setting Up the Environment
